@@ -1,0 +1,27 @@
+{
+    "user": [
+        {
+             "id": 1,
+             "name": "john doe",
+             "email": "john.do@gamail.com"
+   
+         },  
+         {
+                "id": 2,
+                "name": "jane smith",
+                "email": "jane@email.com"
+         }
+    ],
+    "prducts": [
+        {
+            "id": 1,
+            "name": "laptop",
+            "price": 999.99
+        },
+        {
+            "id": 2,
+            "name": "Mouse",
+            "price": 29.99
+        }
+    ]
+}
